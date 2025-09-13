@@ -1,2 +1,2 @@
-# My-Projects
+# MyProjects
 My Projects Repo
